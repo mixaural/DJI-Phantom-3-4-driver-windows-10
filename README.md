@@ -22,3 +22,6 @@ Install on PC  windows 10 :
 8. run VJOY monitor to testing to check that everything works,  move the sticks and you will see that they will also change in the monitor, so everything is ready to launch the simulator. Next, you need to configure the joystick in the simulator for yourself.
 
 Done. Enjoy!!!
+
+write questions to the email - moto4men@gmail.com (lang English or Russian)  
+
