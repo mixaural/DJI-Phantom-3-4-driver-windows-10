@@ -3,8 +3,10 @@ Driver for DJI Phantom rc 3 / 4 for plugin to  windows 10 and play Simulator Lif
 
 1.1 Version 05.02.2023 - create by RuCoder-team.
 
-Main creater  - Maxim Smirnov 
+Main creater  - Maxim Smirnov
+
 Idea and testing - Mihail Novgorodcev
+
 source code - part - https://github.com/Matsemann/mDjiController 
 
 this programe testing with  DJI GL300C controller ( Phantome 3/4 version)  and vjoy 2.0.5 and other new version .
